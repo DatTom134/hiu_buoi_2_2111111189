@@ -1,3 +1,3 @@
 import string
 def atoz():
-    print(string.ascii_lowercase)
+    print(string.ascii_uppercase)
