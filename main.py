@@ -3,7 +3,7 @@ from ve_hcn import hcn
 from ve_hv import hv
 from ve_tamgiac import tamgiac
 from in_a_z import atoz
-print('goodbye')
+print('bye bye')
 InSo()
 print()
 hcn(4)
